@@ -1,11 +1,11 @@
-  Logo: ![Alt](/https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png)
+  Logo: ![ALX Cohort](/https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png)
 
 ## SHELL, BASICS BASH PROJECTS
 
 ## TASKS
 
 **0. Write a script that prints the absolute path name of the current working directory.**
-    *File: 0-current_working_directory*
+    /*File: 0-current_working_directory*
     
 **1. Display the contents list of your current directory.**
     *File: 1-listit*
