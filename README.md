@@ -8,10 +8,10 @@
 (From your terminal, convert the file created to SCRIPT i.e: cdmod +x 1-listit)
 
 **0. Write a script that prints the absolute path name of the current working directory.**
-*File: 0-current_working_directory* #### pwd *(print working directory)*
+*File: 0-current_working_directory* pwd *(print working directory)*
     
 **1. Display the contents list of your current directory.**
-    *File: 1-listit*
+*File: 1-listit*
     
 **2. Write a script that changes the working directory to the user’s home directory.**
     *File: 2-bring_me_home*
