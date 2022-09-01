@@ -87,10 +87,12 @@
   The -p option writes a `/` at the end of directory names.
   The -m option streams the output, separating each listing with commas.
   
-  ## 19. Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
-  ### File: school.mgc
+## 19. Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
+### File: school.mgc
 ``input 1: 0 string SCHOOL School data``
-``input 2!:mime School``
+
+``input 2: !:mime School``
+
 *Then_on_your_terminal_run:* ``file -C -m school.mgc``
 
 
