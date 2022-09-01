@@ -89,9 +89,9 @@
   
   ## 19. Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
   ### File: school.mgc
-  ``input 1: 0 string SCHOOL School data``
-  ``input 2!:mime School``
-  *Then_on_your_terminal_run:* ``file -C -m school.mgc``
+``input 1: 0 string SCHOOL School data``
+``input 2!:mime School``
+*Then_on_your_terminal_run:* ``file -C -m school.mgc``
 
 
 Create a magic file called `school.mgc` that can be used with the command `file` to detect `School` data files. Holberton data files always contain "SCHOOL" at offset 0.
