@@ -1,4 +1,4 @@
-  ![alt text](http://https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png/to/img.png)
+  ![alt text](![image](https://user-images.githubusercontent.com/105258746/187828479-63082744-4c64-4bac-9f56-e32bae98a9a9.png)
 
 # SHELL, BASICS BASH PROJECTS
 
