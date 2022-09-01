@@ -9,7 +9,7 @@
 
 ## 0. Write a script that prints the absolute path name of the current working directory.
 ### File: 0-current_working_directory 
-*input: pwd (print working directory)*
+``input: pwd`` *(print working directory)*
     
 ## 1. Display the contents list of your current directory.
 ### File: 1-listit
@@ -77,7 +77,7 @@
 
 ## 17. Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory. You are only allowed to use two spaces (and lines) in your script, not more.
 ### File: 102-tree
-*input: mkdir -p welcome/to/holberton   (Create directory `welcome` in current directory. Create directory `to` inside directory `welcome`. Create directory `holberton` inside directory `to`. The -p option creates any intermediate directories in the path argument.)
+*input: mkdir -p welcome/to/school   (Create directory `welcome` in current directory. Create directory `to` inside directory `welcome`. Create directory `holberton` inside directory `to`. The -p option creates any intermediate directories in the path argument.)
 
 ## 18. Write a command that lists all the files and directories of the current directory, separated by commas (,) and hidden directory names(..) should end with a slash (/)
 ### File: 103-commas
@@ -91,7 +91,7 @@
   ### File: school.mgc
   *input 1: 0 string SCHOOL School data*
   *input 2!:mime School*
-  `Then_on_your_terminal_run:` file -C -m school,mgc
+  `Then_on_your_terminal_run:` file -C -m school.mgc
 
 
 Create a magic file called `school.mgc` that can be used with the command `file` to detect `School` data files. Holberton data files always contain "SCHOOL" at offset 0.
