@@ -1,4 +1,4 @@
-  Logo: ![ALX Cohort](/https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png)
+  ![alt text](http://https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png/to/img.png)
 
 # SHELL, BASICS BASH PROJECTS
 
