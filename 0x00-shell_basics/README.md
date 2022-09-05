@@ -61,7 +61,11 @@
     
 ## 13. Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
 ### File: 13-symbolic_link
+<<<<<<< HEAD
 ``input: ln -s /bin/ls ls``  *(Create a symbolic link named ls for /bin/ls)*
+=======
+``input: ln -s /bin/ls __ls__``  *(Create a symbolic link named ls for /bin/ls)*
+>>>>>>> 5bdb80766842200c7dd539eb220b65a206e6dc2b
     
 ## 14. Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
 ### File: 14-copy_html
@@ -96,7 +100,11 @@
 *Then_on_your_terminal_run:* ``file -C -m school.mgc``
 
 
+<<<<<<< HEAD
 Create a magic file called `school.mgc` that can be used with the command `file` to detect `School` data files. Holberton data files always contain "SCHOOL" at offset 0.
+=======
+Create a magic file called `school.mgc` that can be used with the command `file` to detect `School` data files. Schhol data files always contain "SCHOOL" at offset 0.
+>>>>>>> 5bdb80766842200c7dd539eb220b65a206e6dc2b
 
   This exercise was much different from the previous exercises. From what I understand, the magic file is used to detect patterns in files and will give a specified output depending on a matching pattern.
   The first argument is a number representing the offset.
