@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/105258746/188752518-2606bf0a-0726-4c8a-8843-eb06d121d9cd.png)
+
 # SHELL, init files, variables and expansions PROJECTS
 
 ## TASKS
