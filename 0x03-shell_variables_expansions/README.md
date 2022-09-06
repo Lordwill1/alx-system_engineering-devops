@@ -5,19 +5,19 @@
 ### Note: When doing this project, After using text editor of your choice to create and access the file on insert mode.Ensure the first line is always having # !/bin/bash, then the second line is having the correct command/answer.
 (From your terminal, convert the file created to `SCRIPT` i.e: cdmod u+x filename)
 
-``File 0-alias`` is a script that creates an alias.
+``File: 0-alias`` * is a script that creates an alias.
 
 
 
-`File 1-hello_you` is a script that prints hello user, where user is the current Linux user.
+`File: 1-hello_you` is a script that prints hello user, where user is the current Linux user.
 
 
 
-File 2-path is a script that adds /action to the PATH.
+`File: 2-path is` * a script that adds /action to the PATH.
 
 
 
-File 3-paths is a script that counts the number of directories in the PATH.
+`File: 3-paths` * is a script that counts the number of directories in the PATH.
 
 
 
