@@ -1,11 +1,11 @@
-  [ALX COHORT](![image](https://user-images.githubusercontent.com/105258746/187828479-63082744-4c64-4bac-9f56-e32bae98a9a9.png)
+  [ALX COHORT]![image](https://user-images.githubusercontent.com/105258746/187828479-63082744-4c64-4bac-9f56-e32bae98a9a9.png)
 
 # SHELL, BASICS BASH PROJECTS
 
 ## TASKS
 
 ### Note: When doing this project, After using text editor of your choice to create and access the file on insert mode.Ensure the first line is always having # !/bin/bash, then the second line is having the correct command/answer.
-(From your terminal, convert the file created to `SCRIPT` i.e: cdmod +x 1-listit)
+(From your terminal, convert the file created to `SCRIPT` i.e: cdmod u+x 1-listit)
 
 ## 0. Write a script that prints the absolute path name of the current working directory.
 ### File: 0-current_working_directory 
@@ -61,11 +61,7 @@
     
 ## 13. Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
 ### File: 13-symbolic_link
-<<<<<<< HEAD
-``input: ln -s /bin/ls ls``  *(Create a symbolic link named ls for /bin/ls)*
-=======
 ``input: ln -s /bin/ls __ls__``  *(Create a symbolic link named ls for /bin/ls)*
->>>>>>> 5bdb80766842200c7dd539eb220b65a206e6dc2b
     
 ## 14. Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
 ### File: 14-copy_html
@@ -100,11 +96,7 @@
 *Then_on_your_terminal_run:* ``file -C -m school.mgc``
 
 
-<<<<<<< HEAD
 Create a magic file called `school.mgc` that can be used with the command `file` to detect `School` data files. Holberton data files always contain "SCHOOL" at offset 0.
-=======
-Create a magic file called `school.mgc` that can be used with the command `file` to detect `School` data files. Schhol data files always contain "SCHOOL" at offset 0.
->>>>>>> 5bdb80766842200c7dd539eb220b65a206e6dc2b
 
   This exercise was much different from the previous exercises. From what I understand, the magic file is used to detect patterns in files and will give a specified output depending on a matching pattern.
   The first argument is a number representing the offset.
